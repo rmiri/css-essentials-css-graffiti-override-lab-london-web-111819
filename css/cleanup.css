@@ -1,7 +1,9 @@
 #wall .tag-1 {
   display: none;
 }
-
+#wall img {
+  display: none;
+}
 #wall #tag-2 {
   display: none;
 
